@@ -37,7 +37,7 @@ const quotes = [
 "J’baise ta meuf et j’me fais des pâtes, pour partir plus vite, j’respecte même pas l’temps d’cuisson",
 "Ta vie, c’est d’la merde, à qui la faute ? T’es figurant dans l’film de la vie d’un autre",
 "C’est pas qu’on est lent, c’est qu’on prend notre temps pour réfléchir, j’viens d’la classe moyenne, moyennement classe où tout l’monde cherche une place, Julien Clerc dans l’monospace",
-"On dit qu’le temps détruit mais l’temps n’est pas notre ennemi, parce que plus j’te connais et plus j’me sens béni, assez béni pour t’emmener à l’église dire au prêtre : « Oublie l’truc où la mort nous sépare, on va rester dans cette vie »,
+"On dit qu’le temps détruit mais l’temps n’est pas notre ennemi, parce que plus j’te connais et plus j’me sens béni, assez béni pour t’emmener à l’église dire au prêtre : « Oublie l’truc où la mort nous sépare, on va rester dans cette vie »",
 "T’es plus intelligent qu’avant mais t’es toujours très con, t’es trop sensible, tu vis tout comme une agression",
 "Ne crois pas les insultes, y’a pas d’race pour être un bâtard, pour être un fils de pute, pas besoin d’avoir une daronne sur un trottoir",
 "On t’dira d’être premier, jamais d’être heureux, premier, c’est pour ceux qu’ont besoin d’une note, qu’ont pas confiance en eux",
